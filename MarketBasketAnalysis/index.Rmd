@@ -1,5 +1,0 @@
----
-title: "Data Science blogs"
-site: distill::distill_website
-listing: posts
----
