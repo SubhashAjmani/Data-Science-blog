@@ -1,0 +1,17 @@
+[
+  {
+    "path": "posts/welcome/",
+    "title": "Extended Market basket analysis with enriched outcome visulization",
+    "description": "*This article describes an ingenious extension to a popular data mining technique, and demonstrates its success to uncover hidden patterns in consumer behaviour in medical device industry. A data mining technique known as market basket analysis(MBA, introduced in 1990s) is applied to investigate various medical devices consumption behaviors by hospitals. This technique is also knowns as association mining or affinity analysis, as it attempts to extract association rules by determining which sets of products or items tend to be purchased jointly.*",
+    "author": [
+      {
+        "name": "Subhash Ajmani <br> Shivesh Jha",
+        "url": {}
+      }
+    ],
+    "date": "2019-07-24",
+    "categories": [],
+    "preview": {},
+    "last_modified": "2019-07-24T04:36:19+05:30"
+  }
+]
