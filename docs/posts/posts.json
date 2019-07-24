@@ -2,16 +2,27 @@
   {
     "path": "posts/Extended Market basket analysis/",
     "title": "Extended Market basket analysis with enriched outcome visualization",
-    "description": "*This article describes an ingenious extension to a popular data mining technique, and demonstrates its success to uncover hidden patterns in consumer behavior in medical device industry. A data mining technique known as market basket analysis (MBA, introduced in 1990s) is applied to investigate various medical devices consumption behaviors by hospitals. This technique is also knowns as association mining or affinity analysis, as it attempts to extract association rules by determining which sets of products or items tend to be purchased jointly. Preliminary examination of input data revealed a critical challenge due to absence of proper transaction definition (a prerequisite to perform MBA), as hospitals do not always buy more than one device together. This prompted exploration of routes to circumvent challenge. The ingenious MBA extension on the reorganized data resulted in meaningful business outcomes. Therefore, indicate that a significant better business decision might be made, by discovering and visualizing hidden patterns in readily available transactional in various industries. In addition, knowledge discovered herein, might be useful and/or extended in those industries, where two or more products are not purchased jointly. In fact, extended MBA results might be helpful in several business scenarios. These include market segmentation, designing catalogues for up-selling or cross-selling, designing promotion and advertising strategies.*",
+    "description": "An ingenious extension to a popular data mining technique to uncover hidden patterns in consumer behavior in medical device industry. It might be useful and/or extended in those industries, where two or more products are not purchased jointly.",
     "author": [
       {
-        "name": "Subhash Ajmani <br> Shivesh Jha",
-        "url": {}
+        "name": "Subhash Ajmani",
+        "url": "https://www.linkedin.com/in/subhash-ajmani-467937b/"
+      },
+      {
+        "name": "Shivesh Jha",
+        "url": "https://www.linkedin.com/in/shivesh-jha-56950835/"
       }
     ],
     "date": "2019-07-23",
-    "categories": [],
-    "preview": {},
-    "last_modified": "2019-07-24T06:39:00+05:30"
+    "categories": [
+      "Machine Learning",
+      "Market basket analysis",
+      "Association Learning",
+      "Unsupervised Learning"
+    ],
+    "preview": "posts/Extended Market basket analysis/HEB.png",
+    "last_modified": "2019-07-25T05:25:45+05:30",
+    "preview_width": 580,
+    "preview_height": 523
   }
 ]
