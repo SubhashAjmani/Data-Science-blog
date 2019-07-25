@@ -1,7 +1,7 @@
 [
   {
     "path": "posts/Extended Market basket analysis/",
-    "title": "Extended Market basket analysis with enriched outcome visualization",
+    "title": "Extended Market Basket Analysis with Enriched Outcome Visualization",
     "description": "An ingenious extension to a popular data mining technique to uncover hidden patterns in consumer behavior in medical device industry. It might be useful and/or extended in those industries, where two or more products are not purchased jointly.",
     "author": [
       {
@@ -21,7 +21,7 @@
       "Unsupervised Learning"
     ],
     "preview": "posts/Extended Market basket analysis/HEB.png",
-    "last_modified": "2019-07-25T07:32:11+05:30",
+    "last_modified": "2019-07-25T14:28:18+05:30",
     "preview_width": 548,
     "preview_height": 507
   }
